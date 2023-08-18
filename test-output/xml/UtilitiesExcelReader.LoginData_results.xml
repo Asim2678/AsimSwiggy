@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/mabassra.SCT/OneDrive - DP World/Documents/Projects/AsimSwiggy/src/test/java/SwagiApplication/PizzaHutSwaggy.java"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="5"
+           time="0.000">
+  <properties />
+  
+            <testcase name="testReadExcelData" time="0.0" classname="UtilitiesExcelReader.LoginData">
+          <skipped />
+    </testcase>
+            <testcase name="testReadExcelData" time="0.0" classname="UtilitiesExcelReader.LoginData">
+          <skipped />
+    </testcase>
+            <testcase name="testReadExcelData" time="0.0" classname="UtilitiesExcelReader.LoginData">
+          <skipped />
+    </testcase>
+            <testcase name="testReadExcelData" time="0.0" classname="UtilitiesExcelReader.LoginData">
+          <skipped />
+    </testcase>
+            <testcase name="testReadExcelData" time="0.0" classname="UtilitiesExcelReader.LoginData">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

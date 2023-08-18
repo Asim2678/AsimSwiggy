@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/mabassra.SCT/OneDrive - DP World/Documents/Projects/AsimSwiggy/src/test/java/Swiggy/BasicExtentReport.java"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.234">
+  <properties />
+  
+  
+            <testcase name="SelectMargheritaPiza" time="15.289" classname="SwagiApplication.BasicExtentReport" />
+                <testcase name="ChooseAhmedabad" time="2.829" classname="SwagiApplication.BasicExtentReport" />
+                <testcase name="SelectPizaHut" time="4.116" classname="SwagiApplication.BasicExtentReport" />
+      
+</testsuite>

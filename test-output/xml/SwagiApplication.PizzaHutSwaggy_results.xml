@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/mabassra.SCT/OneDrive - DP World/Documents/Projects/AsimSwiggy/src/test/java/SwagiApplication/PizzaHutSwaggy.java"
+           tests="14"
+           failures="1"
+           errors="0"
+           skipped="13"
+           time="-1691917458.165">
+  <properties />
+            <testcase name="startReport" time="-1691917458.165" classname="SwagiApplication.PizzaHutSwaggy">
+                <failure type="org.testng.TestNGException"
+                  message="
+Parameter &apos;OS&apos; is required by BeforeTest on method startReport but has not been marked @Optional or defined
+in C:\Users\mabassra.SCT\OneDrive - DP World\Documents\Projects\AsimSwiggy\testngPizzaSwiggyTest.xml"
+              >
+<![CDATA[org.testng.TestNGException: 
+Parameter 'OS' is required by BeforeTest on method startReport but has not been marked @Optional or defined
+in C:\Users\mabassra.SCT\OneDrive - DP World\Documents\Projects\AsimSwiggy\testngPizzaSwiggyTest.xml
+  org.testng.internal.Parameters.createParams(Parameters.java:267)
+  org.testng.internal.Parameters.createParametersForMethod(Parameters.java:355)
+  org.testng.internal.Parameters.createParameters(Parameters.java:684)
+  org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:166)
+  org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:277)
+  org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:644)
+  org.testng.TestRunner.beforeRun(TestRunner.java:633)
+  org.testng.TestRunner.run(TestRunner.java:595)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+  org.testng.SuiteRunner.run(SuiteRunner.java:330)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+  org.testng.TestNG.runSuites(TestNG.java:1099)
+  org.testng.TestNG.run(TestNG.java:1067)
+  com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+  com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+      </failure>
+
+          </testcase>
+  
+            <testcase name="testBegins" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="LaunchBrowser" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="testBegins" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="getResult" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="tearDown" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="CloseBrowser" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="getResult" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="testEnds" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="ExportDucrEnd" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="ExportDucrStrt" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="testEnds" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="ChooseAhmedabad" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+            <testcase name="SelectPizaHut" time="0.0" classname="SwagiApplication.PizzaHutSwaggy">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

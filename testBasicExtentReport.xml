@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+    <parameter name="OS" value="Windows"></parameter>
+    <parameter name="browser" value="Chrome"></parameter>
+
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/mabassra.SCT/OneDrive - DP World/Documents/Projects/AsimSwiggy/src/test/java/Swiggy/BasicExtentReport.java">
+        <classes>
+            <class name="Swiggy.BasicExtentReport">
+                <methods>
+                    <include name="ChooseAhmedabad"/>
+                    <include name="SelectPizaHut"/>
+                    <include name="SelectMargheritaPiza"/>
+                </methods>
+            </class>
+            <class name="UtilitiesExcelReader.LoginData">
+                <methods>
+                    <include name="testReadExcelData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
