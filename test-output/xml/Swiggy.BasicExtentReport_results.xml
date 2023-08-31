@@ -4,12 +4,12 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="23.274">
+           time="23.484">
   <properties />
   
   
-            <testcase name="SelectMargheritaPiza" time="17.119" classname="Swiggy.BasicExtentReport" />
-                <testcase name="SelectPizaHut" time="2.474" classname="Swiggy.BasicExtentReport" />
-                <testcase name="ChooseAhmedabad" time="3.681" classname="Swiggy.BasicExtentReport" />
+            <testcase name="ChooseAhmedabad" time="3.441" classname="Swiggy.BasicExtentReport" />
+                <testcase name="SelectMargheritaPiza" time="15.322" classname="Swiggy.BasicExtentReport" />
+                <testcase name="SelectPizaHut" time="4.721" classname="Swiggy.BasicExtentReport" />
       
 </testsuite>
